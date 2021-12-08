@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-07T18:08:38.274Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="VVRgrq4WGeTiT1a0FwLZ" version="15.9.1" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2021-12-08T15:39:59.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="iZHbUKinkcV-6q4tUoCE" version="15.9.1" type="github" pages="4">
   <diagram name="Login" id="ZvpyL_SeaGO9oY_KIX6m">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="702" dy="761" grid="1" gridSize="7" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Konto" id="Gj3M4wZvYruyAGRU5kcp">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="700" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="ZZbf5WqR2K0WtgPQIpdD-0" />
         <mxCell id="ZZbf5WqR2K0WtgPQIpdD-1" parent="ZZbf5WqR2K0WtgPQIpdD-0" />
@@ -155,7 +155,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Transaktion" id="GoE1OUr3IFOBLREmyCoa">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="702" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="z9xls_yuxc9he5VLDgKB-0" />
         <mxCell id="z9xls_yuxc9he5VLDgKB-1" parent="z9xls_yuxc9he5VLDgKB-0" />
@@ -333,14 +333,6 @@
         </mxCell>
         <mxCell id="V8oBShXn8wstdkL9CL1M-10" value="Auswahl&lt;br&gt;Funktion" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="z9xls_yuxc9he5VLDgKB-1" vertex="1">
           <mxGeometry x="433" y="660" width="113" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="V8oBShXn8wstdkL9CL1M-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=14;dashed=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="z9xls_yuxc9he5VLDgKB-1" source="V8oBShXn8wstdkL9CL1M-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490" y="610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V8oBShXn8wstdkL9CL1M-14" value="&lt;span style=&quot;font-size: 13px&quot;&gt;Merge?&lt;/span&gt;" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=25;verticalAlign=top;align=center;fontSize=14;" parent="z9xls_yuxc9he5VLDgKB-1" vertex="1">
-          <mxGeometry x="260" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="V8oBShXn8wstdkL9CL1M-17" value="Transaktionsliste" style="html=1;shape=mxgraph.infographic.ribbonSimple;notch1=0;notch2=20;align=center;verticalAlign=middle;fontSize=14;fontStyle=0;fillColor=#FFFFFF;" parent="z9xls_yuxc9he5VLDgKB-1" vertex="1">
           <mxGeometry x="120" y="695" width="160" height="40" as="geometry" />
